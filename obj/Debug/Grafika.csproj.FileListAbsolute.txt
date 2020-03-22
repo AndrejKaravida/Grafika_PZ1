@@ -1,0 +1,85 @@
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\Grafika.exe.config
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\Grafika.exe
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\Grafika.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\MainWindow.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\SelectAtributesWindow.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika_MarkupCompile.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika_MarkupCompile.lref
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\MainWindow.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\SelectAtributesWindow.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika.g.resources
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika.Properties.Resources.resources
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika.csproj.GenerateResource.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika.exe
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\PolygonPoints.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\PolygonPoints.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\CommonServiceLocator.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat1\Grafika\obj\Debug\Grafika.csproj.CopyComplete
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\Grafika.exe.config
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\Grafika.exe
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\Grafika.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\CommonServiceLocator.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\MainWindow.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\SelectAtributesWindow.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika_MarkupCompile.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika_MarkupCompile.lref
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\MainWindow.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\SelectAtributesWindow.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.g.resources
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.Properties.Resources.resources
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.csproj.GenerateResource.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.csproj.CopyComplete
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.exe
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat1 - Copy\Grafika\obj\Debug\Grafika.csprojAssemblyReference.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\Grafika.exe.config
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\Grafika.exe
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\Grafika.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\CommonServiceLocator.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Andrej\Desktop\GrafikaProjekat\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.csprojAssemblyReference.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\SelectAtributesWindow.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika_MarkupCompile.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika_MarkupCompile.lref
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\MainWindow.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\SelectAtributesWindow.baml
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.g.resources
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.Properties.Resources.resources
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.csproj.GenerateResource.cache
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.csproj.CopyComplete
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.exe
+C:\Users\Andrej\Desktop\GrafikaProjekat\obj\Debug\Grafika.pdb
